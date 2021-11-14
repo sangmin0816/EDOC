@@ -34,3 +34,5 @@ public class q14471 { // 포인트 카드
         sc.close();
     }
 }
+
+// 어려웠던 점: Arrayslist는 Array.sort가 아닌 Collections.sort를 써야 한다.
