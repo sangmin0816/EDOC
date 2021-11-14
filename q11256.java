@@ -14,12 +14,12 @@ public class q11256 {
                 //상자 가로 세로 크기
                 int R = sc.nextInt();
                 int C = sc.nextInt();
-                arr[j]=R*C;
+                arr[j]=R*C; // 각 상자별 넓이를 배열에 추가
             }
             
-            Arrays.sort(arr);
+            Arrays.sort(arr); // 오름차순 정렬
             
-            for(int j=N-1; j>=0; j--){
+            for(int j=N-1; j>=0; j--){ // 넓이가 큰 상자부터 집어넣기
                 J-=arr[j];
                 ans++;
                 if(J<=0){
@@ -32,3 +32,5 @@ public class q11256 {
         sc.close();
     }
 }
+
+// 어려웠던 점. 문제 이해를 못해서 각 상자별로 N개씩 주어지는 줄 알았다.
