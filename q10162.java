@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class q10162 { 
+public class q10162 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
