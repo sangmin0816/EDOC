@@ -1,4 +1,4 @@
-import java.util.*;
+import java.util.*; 
 
 public class q2810 { // 컵홀더
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-import java.util.*;
+import java.util.*; 
 
 public class q2930 { // 가위바위보
     public static int score(char A, char B){ // 점수 계산

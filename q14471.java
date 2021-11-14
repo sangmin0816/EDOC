@@ -1,4 +1,4 @@
-import java.util.*;
+import java.util.*; 
 
 public class q14471 { // 포인트 카드
     public static void main(String[] args) {

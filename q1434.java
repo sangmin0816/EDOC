@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class q1434 { // 책 저리
+public class q1434 { // 책 정리
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

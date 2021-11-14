@@ -1,4 +1,4 @@
-import java.util.*;
+import java.util.*; 
 
 public class q14487 { // 욱제는 효도쟁이야
     public static void main(String[] args) {
