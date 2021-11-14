@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class q11256 {
+public class q11256 { // 사탕 acmicpc.net/problem/11256
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int T = sc.nextInt(); // 테스트 케이스
