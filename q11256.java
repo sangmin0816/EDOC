@@ -1,3 +1,4 @@
+// 동아리 문제 (선택 여부는 아직 모름)
 import java.util.*;
 
 public class q11256 { // 사탕 acmicpc.net/problem/11256
