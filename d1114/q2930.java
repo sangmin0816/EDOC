@@ -1,3 +1,4 @@
+package d1114;
 import java.util.*; 
 
 public class q2930 { // 가위바위보

@@ -1,3 +1,4 @@
+package d1114;
 import java.util.*; 
 
 public class q14471 { // 포인트 카드
@@ -13,7 +14,7 @@ public class q14471 { // 포인트 카드
         for(int i=0; i<M; i++){
             int A=sc.nextInt(); // 당첨 갯수
             int B = sc.nextInt(); // A+B=N이므로 사실 필요 없음
-            if(A>=N){ // 당첨 갯수 충족 시 경품 획득
+            if(A>=N || B<=N){ // 당첨 갯수 충족 시 경품 획득
                 win++;
                 continue;
             }
