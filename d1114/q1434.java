@@ -1,4 +1,5 @@
-package d1114;
+package EDOC10.d1114;
+
 import java.util.*;
 
 public class q1434 { // 책 정리

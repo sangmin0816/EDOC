@@ -1,4 +1,5 @@
-package d1114;
+package EDOC10.d1114;
+
 import java.util.*; 
 
 public class q14487 { // 욱제는 효도쟁이야
