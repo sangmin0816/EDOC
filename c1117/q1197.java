@@ -1,4 +1,4 @@
-package EDOC10;
+package c1117;
 import java.util.*;
 
 class Edge{
