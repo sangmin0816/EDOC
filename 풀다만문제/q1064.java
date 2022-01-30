@@ -1,3 +1,4 @@
+package 풀다만문제;
 import java.util.*;
 class Coo{
     int x;

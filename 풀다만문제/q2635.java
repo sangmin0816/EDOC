@@ -1,3 +1,4 @@
+package 풀다만문제;
 import java.util.*;
 public class q2635 {
     public static void main(String[] args) { // 내가 초등부 문제도 못 풀다니

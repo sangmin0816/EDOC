@@ -1,3 +1,4 @@
+package 풀다만문제;
 import java.util.*;
 public class q2891 { // 80퍼 정도에서 틀림
     public static void main(String[] args) { // https://www.acmicpc.net/problem/2891

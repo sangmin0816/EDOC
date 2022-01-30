@@ -1,4 +1,6 @@
+package 풀다만문제;
 import java.util.*;
+
 
 public class q1459 { // 모르겠당
     public static void main(String[] args) {

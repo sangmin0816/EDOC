@@ -1,3 +1,4 @@
+package 풀다만문제;
 import java.util.*;
 /*
 public class q11582 { // https://www.acmicpc.net/problem/11582

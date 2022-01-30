@@ -1,3 +1,4 @@
+package 풀다만문제;
 import java.util.*;
 
 public class q1059 { // https://www.acmicpc.net/problem/1059 1퍼에서 막힘 아니 왜
